@@ -11,19 +11,15 @@ Hey there, I'm Daren :D, currently a 18 year old student taking the `A Level Com
 
 ## To be implemented
 **Theory**
-1. SQL statements
-2. NoSQL
-3. Backup and Archives
-4. Web Application
-5. Big O Notation
-6. Ethics
-7. OOP + Class Diagram
-8. Trace Diagrams
+1. Backup and Archives
+2. Web Application
+3. Big O Notation
+4. Ethics
+5. OOP + Class Diagram
+6. Trace Diagrams
 
 **Practical/ Coding**
-1. Python sqlite3 code
-2. Python mongodb code
-3. Flask code snippets
-4. Socket programming code snippets
+1. Flask code snippets
+2. Socket programming code snippets
 
-> Last Updated: 18/05/21
+> Last Updated: 23/05/21
