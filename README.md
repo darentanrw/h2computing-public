@@ -4,11 +4,12 @@
 Hey there, I'm Daren :D, currently a 18 year old student taking the `A Level Computing 7155 Syllabus`. It has been quite the pain, especially the theory side of things, so hopefully this repository helps! If there are any issues / better implementation of code, feel free to open issue requests.
 
 ## Content Covered
-**Jupyter Notebooks**
+**Jupyter Notebooks/ Python Code**
 1. Abstract Data Types
 2. Binary Search Tree
 3. Searching & Sorting (In Progress)
 4. Data Conversion (In Progress)
+5. Socket Programming Templates
 
 **H2 Computing Year 1 + 2 Theory Summary**
 1. Networking
@@ -31,6 +32,5 @@ Hey there, I'm Daren :D, currently a 18 year old student taking the `A Level Com
 
 **Practical/ Coding**
 1. Flask code snippets
-2. Socket programming code snippets
 
-> Last Updated: 23/05/21
+> Last Updated: 22/06/21
