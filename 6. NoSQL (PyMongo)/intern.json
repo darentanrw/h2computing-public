@@ -1,0 +1,19 @@
+{
+	"intern_details":[
+		{
+		 "name": "Tan Tan Tan",
+		 "email": "tttan@lotsofintern.com",
+		 "designation": "intern" 
+		},
+		{
+		 "name": "Lee Lee Lee",
+		 "email": "lllee@lotsofintern.com",
+		 "designation": "intern" 
+		},
+		{
+		  "name": "Ng Ng Ng",
+		 "email": "nnng@lotsofintern.com",
+		 "designation": "intern" 
+		}
+	]
+}
