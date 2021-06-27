@@ -10,6 +10,13 @@ Hey there, I'm Daren :D, currently a 18 year old student taking the `A Level Com
 3. Searching & Sorting (In Progress)
 4. Data Conversion (In Progress)
 5. Socket Programming Templates
+6. PyMongo (In Progress)
+
+**Theory Notes**
+<ol type="A">
+  <li>OOP Theory Summary (By Cedric)</li>
+  <li>Data Structure Theory Summary (By Cedric)</li>
+</ol>
 
 **H2 Computing Year 1 + 2 Theory Summary**
 1. Networking
