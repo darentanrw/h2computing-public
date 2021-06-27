@@ -39,5 +39,3 @@ Hey there, I'm Daren :D, currently a 18 year old student taking the `A Level Com
 
 **Practical/ Coding**
 1. Flask code snippets
-
-> Last Updated: 22/06/21
