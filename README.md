@@ -10,7 +10,7 @@ Hey there, I'm Daren :D, currently a 18 year old student taking the `A Level Com
 3. Searching & Sorting (In Progress)
 4. Data Conversion (In Progress)
 5. Socket Programming Templates
-6. PyMongo (In Progress)
+6. PyMongo
 
 **Theory Notes**
 <ol type="A">
@@ -26,16 +26,14 @@ Hey there, I'm Daren :D, currently a 18 year old student taking the `A Level Com
 5. File + Strings Code Snippets
 6. SQL Database (Theory + ERD + Normalization + Code Snippets)
 7. NoSQL - MongoDB (Theory + PyMongo)
-8. PDPA (Purposes + Obligations + DNC)
+8. Socket Programming Code Snippets
+9. Flask Code Snippets
+10. PDPA (Purposes + Obligations + DNC)
 
 ## To be implemented
 **Theory**
 1. Backup and Archives
-2. Web Application
-3. Big O Notation
-4. Ethics
-5. OOP + Class Diagram
-6. Trace Diagrams
-
-**Practical/ Coding**
-1. Flask code snippets
+2. Big O Notation
+3. Ethics
+4. OOP + Class Diagram
+5. Trace Diagrams
