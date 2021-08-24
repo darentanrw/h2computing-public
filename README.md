@@ -37,3 +37,4 @@ Hey there, I'm Daren :D, currently a 18 year old student taking the `A Level Com
 3. Ethics
 4. OOP + Class Diagram
 5. Trace Diagrams
+6. Decision Tables
