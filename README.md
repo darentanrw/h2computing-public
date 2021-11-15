@@ -1,4 +1,4 @@
-# H2 Computing Summarised Notes
+# H2 Computing 9569 Notes
 
 ## Using this repository
 Hey there, I'm Daren :D, I took the `A Level Computing 9569 Syllabus` in 2021. I struggled a little with the theory side of things, because there weren't really any standardised resource, so I thought that I should open source my notes, and hopefully this repository helps you! If there are any issues / better implementation of code, feel free to open issue requests.
